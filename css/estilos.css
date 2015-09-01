@@ -1,0 +1,29 @@
+header {
+	background:#2c3e50;
+	color:#fff;
+}
+
+.principal {
+	background:#f2f2f2;
+}
+
+.azul-y-blanco {
+	background: #34495e;
+	color:#fff;
+}
+
+.costado {
+	background:#c0392b;
+	color:#fff;
+}
+
+footer {
+	background:#16a085;
+	color:#fff;
+}
+
+body { padding-top: 40px; }
+
+.titulo{
+    font-weight: bold;
+}
